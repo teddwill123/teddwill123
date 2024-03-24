@@ -40,8 +40,8 @@ I'm a Web Developer with a passion for building high-quality web applications. I
 Here are some of my recent projects:
 
 - [Capstone Project in Python](https://github.com/Damiennsoh/finalCapstone) - In this project, I will use lists or dictionaries and functions to extend the functionality of a simple task management system.
-- [Student Hub-react.js](https://github.com/Damiennsoh/React-Student-Hub-App) - A note taking app developed using react.js
-- [Quiz Application](https://github.com/Damiennsoh/Quiz-Application-BCA) - A web-based quiz application for students 
+- [Student Hub-react.js](https://github.com/teddwill123/MyRun) - A note taking app developed using react.js
+- [Quiz Application](https://github.com/teddwill123/Quiz-Application-BCA) - A web-based quiz application for students 
 - [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/141796/) -A portfolio of all Software Engineering project tasks from HyperionDev Bootcamp
 
 ## Experience
@@ -52,10 +52,9 @@ Here are some of my recent projects:
 
 ## Education
 
-- Bachelor's degree in Computer Science from Birmingham City University (2021-2024)
-- Bootcamp Certificate in Sofware Engineering from HyperionDev (2023) (United Kingdom)
-- Bootcamp Certificate in Cybersecurity from Raytheon Cyber Academy (United Kingdom)
-
+- Bachelor's degree in Computer Application (2021-2024)
+- Bootcamp Certificate in Front-End Web Development from Edx (United Kingdom)
+- Bootcamp Certificate in Web Development from HyperionDev (202) (United Kingdom)
 
 ## Interests
 
