@@ -27,23 +27,21 @@ I'm a Web Developer with a passion for building high-quality web applications. I
 - JavaScript
 - React
 - Node.js
-- Cloud Computing(Microsoft Azure)
+- JQuery
+- GitHub
 - HTML/CSS
 - Python
 - MySQL
-- Computer Networking
-- Cybersecurity
+  
 
 
 ## Projects
 
 Here are some of my recent projects:
 
-- [Capstone Project in Python](https://github.com/Damiennsoh/finalCapstone) - In this project, I will use lists or dictionaries and functions to extend the functionality of a simple task management system.
 - [Student Hub-react.js](https://github.com/teddwill123/MyRun) - A note taking app developed using react.js
-- [Quiz Application](https://github.com/teddwill123/Quiz-Application-BCA) - A web-based quiz application for students 
-- [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/141796/) -A portfolio of all Software Engineering project tasks from HyperionDev Bootcamp
-
+- [Quiz Application](https://github.com/teddwill123/Quiz-Application-BCA) - A web-based quiz application for students
+  
 ## Experience
 
 - Internship at Lillup Company (Summer 2023): I worked on cybersecurity projects using Mandiant and Cloudflare to detect vulnerabilities and fix issues that were found.
@@ -54,7 +52,7 @@ Here are some of my recent projects:
 
 - Bachelor's degree in Computer Application (2021-2024)
 - Bootcamp Certificate in Front-End Web Development from Edx (United Kingdom)
-- Bootcamp Certificate in Web Development from HyperionDev (202) (United Kingdom)
+- Bootcamp Certificate in Web Development from HyperionDev (2024) (United Kingdom)
 
 ## Interests
 
