@@ -39,12 +39,11 @@ I'm a Web Developer with a passion for building high-quality web applications. I
 
 Here are some of my recent projects:
 
-- [Student Hub-react.js](https://github.com/teddwill123/MyRun) - A note taking app developed using react.js
-- [Quiz Application](https://github.com/teddwill123/Quiz-Application-BCA) - A web-based quiz application for students
+- [MyRun-react.js](https://anarab.github.io/MyRun/) - This app is used for tracking distances that was cover when taking exercise. It was developed using react.js
+- [Food-Delivery Application](https://bite-bytes.netlify.app/) - A food delivery web app developed using react.js
   
 ## Experience
 
-- Internship at Lillup Company (Summer 2023): I worked on cybersecurity projects using Mandiant and Cloudflare to detect vulnerabilities and fix issues that were found.
 - Freelance Web Developer (2022-2023)
 
 
